@@ -1,18 +1,45 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**I-am-Stone/I-am-Stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional Web Scraping Developer who's passionate about data extraction and web automation. I build efficient scraping solutions and web applications with modern technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Scraping**: Selenium, Scrapy, BeautifulSoup, Automated Data Extraction
+- **Frontend**: React.js, Tailwind CSS, DaisyUI
+- **Backend**: Python, Django, Flask
+- **Database**: PostgreSQL
+- **Version Control**: Git
 
-EGO
+## 💼 Professional Experience
+
+- Design and implement scalable web scraping solutions
+- Develop automated data collection systems
+- Handle anti-bot detection and bypass mechanisms
+- Create robust scrapers for dynamic websites
+- Manage proxies and rotating IP systems
+- Process and clean extracted data
+
+## 🌱 I'm currently learning
+
+- Advanced React patterns and best practices
+- State management with Redux
+- Puppeteer for JavaScript-based web scraping
+- Cloud deployment for scraping solutions
+- Anti-detection techniques
+- Data pipeline optimization
+
+## 🚀 What I Do
+
+- Build and maintain large-scale web scraping systems
+- Develop responsive web applications
+- Create RESTful APIs using Django and Flask
+- Implement modern UI designs with Tailwind CSS and DaisyUI
+- Handle data processing and storage solutions
+
+## 📫 How to reach me
+
+dilipchaulagain86@gmail.com
+
+
+---
+⭐️ From [YourGitHubUsername](https://github.com/I-am-Stone)
