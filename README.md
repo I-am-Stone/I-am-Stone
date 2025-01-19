@@ -10,15 +10,6 @@ I'm a professional Web Scraping Developer who's passionate about data extraction
 - **Database**: PostgreSQL
 - **Version Control**: Git
 
-## 💼 Professional Experience
-
-- Design and implement scalable web scraping solutions
-- Develop automated data collection systems
-- Handle anti-bot detection and bypass mechanisms
-- Create robust scrapers for dynamic websites
-- Manage proxies and rotating IP systems
-- Process and clean extracted data
-
 ## 🌱 I'm currently learning
 
 - Advanced React patterns and best practices
