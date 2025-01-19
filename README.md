@@ -39,7 +39,3 @@ I'm a professional Web Scraping Developer who's passionate about data extraction
 ## 📫 How to reach me
 
 dilipchaulagain86@gmail.com
-
-
----
-⭐️ From [YourGitHubUsername](https://github.com/I-am-Stone)
